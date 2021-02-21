@@ -211,6 +211,10 @@ td.expense{
 
 }
 
+.remove{
+    cursor: pointer;
+}
+
 /* Modal ======================== */
 .modal-overlay{
     width: 100%;
